@@ -2,4 +2,7 @@ def input_age():
 	age = input("Quel est ton âge?")
 	return age
 
+def input_name():
+	name = input("Quel est ton nom?")
+
 age = input_age()
