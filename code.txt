@@ -1,4 +1,4 @@
-def inpu_age():
+def input_age():
 	age = input("Quel est ton âge?")
 	return age
 
