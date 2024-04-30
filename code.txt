@@ -5,4 +5,5 @@ def input_age():
 def input_name():
 	name = input("Quel est ton nom?")
 
+# appel de la fonction input_age
 age = input_age()
